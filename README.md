@@ -1,4 +1,4 @@
-# 🏨 StayStack — Cloud-Native Hotel Booking Platform
+# 🏨 Hotel Booking App — AWS ECS Fargate
 
 > A production-grade Laravel hotel booking application deployed on AWS using ECS Fargate, powered by Terraform (IaC) and GitHub Actions (CI/CD).
 
